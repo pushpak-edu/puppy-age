@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/puppy-age/static/css/main.81e6fef5.chunk.css",
+    "main.js": "/puppy-age/static/js/main.1f5f18a8.chunk.js",
+    "main.js.map": "/puppy-age/static/js/main.1f5f18a8.chunk.js.map",
+    "runtime~main.js": "/puppy-age/static/js/runtime~main.6c8f6d6d.js",
+    "runtime~main.js.map": "/puppy-age/static/js/runtime~main.6c8f6d6d.js.map",
+    "static/js/2.6f4f9af9.chunk.js": "/puppy-age/static/js/2.6f4f9af9.chunk.js",
+    "static/js/2.6f4f9af9.chunk.js.map": "/puppy-age/static/js/2.6f4f9af9.chunk.js.map",
+    "index.html": "/puppy-age/index.html",
+    "precache-manifest.0b081f61a50c0292eabc79fbad02a548.js": "/puppy-age/precache-manifest.0b081f61a50c0292eabc79fbad02a548.js",
+    "service-worker.js": "/puppy-age/service-worker.js",
+    "static/css/main.81e6fef5.chunk.css.map": "/puppy-age/static/css/main.81e6fef5.chunk.css.map"
+  }
+}
